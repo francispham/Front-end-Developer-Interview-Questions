@@ -41,7 +41,7 @@
     "@11ty/eleventy": "^0.11.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.2",
     "all-contributors-cli": "^6.18.0",
-    "clean-css": "^4.2.3",
+    "clean-css": "^5.0.1",
     "html-minifier": "^4.0.0",
     "luxon": "^1.25.0",
     "markdown-it": "^11.0.1",
